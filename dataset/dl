@@ -1,0 +1,1 @@
+wget "http://libble.me/torrents.php?action=download&id=$1&authkey=66j0am0rt6a1dw0eu05anvgn92bn0oy6&torrent_pass=s2k67dq8t2o8qe9i17svsc5c1rqzud86" --max-redirect 0 -O $1.torrent
